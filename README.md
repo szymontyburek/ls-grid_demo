@@ -1,1 +1,1 @@
-Quick demo displaying ls-grid and its role within Film Fusion. To view the video, download the video in this repo, or view this link on google drive: https://drive.google.com/file/d/16U6DJRCEcRXN01MoqHovH41wiRvd6LRr/view
+Quick demo displaying ls-grid and its role within Film Fusion. To watch the video, download the video in this repo, or click on this link: https://drive.google.com/file/d/16U6DJRCEcRXN01MoqHovH41wiRvd6LRr/view
