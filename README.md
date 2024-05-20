@@ -1,4 +1,4 @@
-Quick demo displaying ls-grid and its role within Film Fusion. To watch the video, download the video in this repo, or click on this link: https://drive.google.com/file/d/16U6DJRCEcRXN01MoqHovH41wiRvd6LRr/view
+Quick demo displaying ls-grid and its role within Film Fusion. To watch the video, download the .mkv video in this repo, or click on this link: https://drive.google.com/file/d/16U6DJRCEcRXN01MoqHovH41wiRvd6LRr/view
 
 What I learned from creating this product:
 - The power of encapsulation. Having a component that works in any environment is needed when it is being used in many places.
