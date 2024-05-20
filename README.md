@@ -5,4 +5,4 @@ What I learned from creating this product:
 - The benefits of asynchronous/non-blocking calls. The website doesn't shut down while waiting for calls to complete.
 - Agile development. Frequent reassessment and adaptation of plans, breaking down tasks into small enough steps to prevent misdirection.
 - The importance of regression testing. Make sure all previous behaviors exist after adding new code.
-- Images can be encoded into a string (base64).
+- How to encode images into a base64 string.
